@@ -5,3 +5,7 @@ function hola() {
   // FIXME: Hice esto mal, arreglado
   let num = 5;
 }
+
+function chau() {
+  let numerito = 23;
+}

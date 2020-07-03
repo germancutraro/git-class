@@ -3,3 +3,4 @@ const main = 5;
 const a = 3;
 const b = 5;
 const c = 10;
+const x = 10;

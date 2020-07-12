@@ -7,5 +7,5 @@ function hola() {
 }
 
 function chau() {
-  let numerito = 23;
+  let numerito = 24;
 }
